@@ -1,3 +1,7 @@
+#This repository is a test to see if I can get a very basic app running on Heroku
+
+Below is a useful step by step guide from TDI.
+
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
