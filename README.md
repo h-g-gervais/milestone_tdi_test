@@ -1,6 +1,8 @@
-#This repository is a test to see if I can get a very basic app running on Heroku
+# This repository contains all the source files for my preliminary milestone project on Heroku.
 
-Below is a useful step by step guide from TDI.
+The app can be accessed at [this link](http://afternoon-brushlands-90572.herokuapp.com/)
+
+Below is a useful step by step guide from TDI on how to deploy an app on Heroku.
 
 # Flask on Heroku
 
